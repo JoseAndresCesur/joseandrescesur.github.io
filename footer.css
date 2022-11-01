@@ -1,0 +1,11 @@
+.footer {
+    background: #03A9F4;
+    width: 100%;
+    clear: both;
+}
+
+.footer .footer-text {
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: bold;
+}

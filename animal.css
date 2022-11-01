@@ -1,0 +1,10 @@
+main{
+    margin-left: 410px;
+    margin-right: 410px;
+}
+
+main section img {
+    width: 49%;
+    height: 300px;
+    padding-bottom: 0.5%;
+}
