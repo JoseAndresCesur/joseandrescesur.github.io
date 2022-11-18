@@ -1,24 +1,24 @@
+/*Header valores*/
 header {
    background: #03A9F4;
    width: 100%;
    top: 0%;
 }
 
-.menu {
-   margin: 0 auto;
-}
-
+/*Centrar Menu*/
 nav ul {
    text-align: center;
    padding: 10px 0;
 }
 
+/*Espacios entre el menu y en linea*/
 nav li {
    padding-left: 30px;
    padding-right: 30px;
    display: inline-block;
 }
 
+/*Formato del texto*/
 nav ul li a {
    text-decoration: none;
    color: #444;
